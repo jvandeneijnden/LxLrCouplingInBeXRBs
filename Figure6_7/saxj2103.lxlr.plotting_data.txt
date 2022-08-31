@@ -1,0 +1,5 @@
+# MJD | Cband flux | Flux error | UL? | 0.5-10 keV flux | error | 1-10 keV flux | error 1-10 keV flux | error | X-ray observatory
+#
+# for the X-ray observatory, we have: 1 == NICER, 2 == SWIFT, 3 == interpolation
+# 
+59101.02 18.0 6.0 1 4.4e-10 2.8e-10 4.2e-10 2.7e-10 3.9e-10 2.5e-10 2

@@ -1,0 +1,4 @@
+# Observatory | Observation number | ObsID/mode | 0.5 - 10 keV flux [erg/s/cm^2] | Error | 1 - 10 keV flux | Error | 2 - 10 keV flux | Error
+# All fluxes and errors in the same units as the 0.5-10 keV band
+Swift	1	00030922079/wt	2.54e-10	7.23e-12	2.45e-10	7.33e-12	2.24e-10	7.76e-12
+Swift	2	00030922080/wt	2.20e-10	7.20e-12	2.13e-10	7.28e-12	1.96e-10	7.66e-12
