@@ -2,8 +2,8 @@
 
 ![Lx Lr plane of transient Be/X-ray binaries](Figure6_7/Figure6.png?raw=true "Lx Lr plane of transient Be/X-ray binaries")
 
-## Based on Van den Eijnden et al. (2022), re-submitted to MNRAS after minor referee comments.
-## DOI and links to be added later.
+## Based on Van den Eijnden et al. (2022), accepted for publication in MNRAS.
+## https://arxiv.org/abs/2208.14903
 
 This repository contains a Jupyter notebook and all required underlying data to produce the images in the paper "Radio monitoring of transient Be/X-ray binaries and the inflow-outflow coupling of strongly-magnetized accreting neutron stars". In order to run the Notebook, check the software requirements below, clone the repository, and run through each cell. We refer to the main paper for full details on the data, plots, and MCMC calculations.
 
