@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/531116864.svg)](https://zenodo.org/doi/10.5281/zenodo.10037762)
+
 # Analysis reproduction repository for the paper "Radio monitoring of transient Be/X-ray binaries and the inflow-outflow coupling of strongly-magnetized accreting neutron stars"
 
 ![Lx Lr plane of transient Be/X-ray binaries](Figure6_7/Figure6.png?raw=true "Lx Lr plane of transient Be/X-ray binaries")
